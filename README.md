@@ -1,2 +1,5 @@
-# Careplus_Data_Engineering
-This Project is Completlely for Learning purpose
+# CarePlus – Data Engineering Learning Journey 🚀
+
+This repository documents my Data Engineering learning journey through project-based, hands-on practice.
+
+
