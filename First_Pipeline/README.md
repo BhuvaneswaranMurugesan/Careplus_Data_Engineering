@@ -47,3 +47,6 @@ Automatically invoked Lambda whenever a new log file is uploaded.
 
 Transformed log data and stored it back in S3 as Parquet files for analytics.
 
+Reference:
+
+![alt text](image.png)
