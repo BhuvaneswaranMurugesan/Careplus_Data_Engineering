@@ -69,10 +69,7 @@ support_ticket/
 - Parquet
 - Amazon CloudWatch
 
-## Future Enhancements
+Reference:
 
-- Integrate AWS Glue Data Catalog
-- Add schema validation and data quality checks
-- Implement Parquet partitioning
-- Add retry and failure handling mechanisms
-- Enable querying with Amazon Athena
+![alt text](image.png)
+
