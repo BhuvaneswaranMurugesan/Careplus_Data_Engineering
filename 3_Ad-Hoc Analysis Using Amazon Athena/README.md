@@ -80,8 +80,17 @@ GROUP BY status;
 
 ## 📈 Key Learnings
 
-- 🚀 Athena enables instant insights without data movement
-- 🔄 Glue Crawlers simplify schema management
-- 🎯 Ad-Hoc analysis is ideal for quick exploration and one-time insights
-- 💰 Serverless architecture reduces operational overhead and cost
-- 💪 SQL remains a powerful tool for large-scale data analysis
+- Athena enables instant insights without data movement
+- Glue Crawlers simplify schema management
+- Ad-Hoc analysis is ideal for quick exploration and one-time insights
+- Serverless architecture reduces operational overhead and cost
+- SQL remains a powerful tool for large-scale data analysis
+
+
+##  Analysis:
+
+1.Query : Analysis on Channel and their count in support tickets
+![alt text](image.png)
+
+2.Result:
+![alt text](image-1.png)
